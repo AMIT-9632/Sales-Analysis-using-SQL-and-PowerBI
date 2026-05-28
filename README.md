@@ -67,3 +67,5 @@ This type of project is useful for:
 - Expand the dashboard with customer, product, and regional drill-downs.
 - Include data modeling documentation and schema diagrams.
 - Automate parts of the SQL-to-Power BI workflow.
+
+## This project was done a study and not as analysis to learn SQL and PowerBI
