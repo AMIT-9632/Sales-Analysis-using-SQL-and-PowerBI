@@ -23,15 +23,15 @@ The AdventureWorks database is a Microsoft sample dataset commonly used for SQL 
 
 ### 1. Data Cleaning in SQL
 
-The first stage of the project focuses on preparing the AdventureWorks dataset for analysis. This typically includes inspecting tables, handling inconsistencies, selecting relevant columns, and writing SQL queries to produce structured analytical outputs [web:2][web:4].
+The first stage of the project focuses on preparing the AdventureWorks dataset for analysis. This typically includes inspecting tables, handling inconsistencies, selecting relevant columns, and writing SQL queries to produce structured analytical outputs.
 
 ### 2. Data Analysis in SQL
 
-After cleaning, SQL is used to analyze patterns in the data. Typical analysis areas include sales performance, customer behavior, product trends, and other business metrics that can support decision-making [web:2].
+After cleaning, SQL is used to analyze patterns in the data. Typical analysis areas include sales performance, customer behavior, product trends, and other business metrics that can support decision-making.
 
 ### 3. Visualization in Power BI
 
-The cleaned and analyzed data is then imported into Power BI to build dashboards. Power BI enables interactive filtering, visual comparison, and a more intuitive understanding of trends and performance across different business dimensions [web:2].
+The cleaned and analyzed data is then imported into Power BI to build dashboards. Power BI enables interactive filtering, visual comparison, and a more intuitive understanding of trends and performance across different business dimensions.
 
 ## Project Features
 
